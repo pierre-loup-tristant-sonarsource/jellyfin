@@ -9,6 +9,7 @@
     <AssemblyName>jellyfin</AssemblyName>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
+    <StaticWebAssetsEnabled>false</StaticWebAssetsEnabled>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
